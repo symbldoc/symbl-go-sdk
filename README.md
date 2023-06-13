@@ -69,7 +69,7 @@ This library is released under the [MIT License][license]
 
 [api-keys]: https://platform.symbl.ai/#/login
 [symbl-docs]: https://docs.symbl.ai/docs
-[streaming_api-docs]: https://docs.symbl.ai/docs/streaming-api
+[streaming_api-docs]: https://docs.symbl.ai/reference/streaming-api-reference
 [async_api-docs]: https://docs.symbl.ai/docs/async-api
 [management_api-docs]: https://docs.symbl.ai/docs/management-api
 [symbl_signup]: https://platform.symbl.ai/signup?utm_source=symbl&utm_medium=blog&utm_campaign=devrel&_ga=2.226597914.683175584.1662998385-1953371422.1659457591&_gl=1*mm3foy*_ga*MTk1MzM3MTQyMi4xNjU5NDU3NTkx*_ga_FN4MP7CES4*MTY2MzEwNDQyNi44Mi4xLjE2NjMxMDQ0MzcuMC4wLjA.
